@@ -6,3 +6,5 @@ Download Dataset from here:https://www.kaggle.com/gpiosenka/beauty-detection-dat
 Download pre-trained model from here:https://mega.nz/file/g8IhlY4J#XQpMP557ksnXVIG5rrXiIHIdAu_WYRKitjcjMvRmKjo
 
 Refer to https://github.com/thisisanshgupta/BeautyNet/blob/main/src/BeautyNet_Test.ipynb to run the pre-trained model
+
+![BeautyNet](https://github.com/thisisanshgupta/BeautyNet/blob/main/others/download.png)
